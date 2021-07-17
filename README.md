@@ -82,7 +82,7 @@ git clone https://github.com/<your_user_name>/Vaccine-Tracker-App.git
 
 ```
 
-<img src="ss3.png"  width="500">
+<img src="screenshots/ss3.png"  width="500">
 
 
 **3.** Navigate to the project directory :file_folder: .
@@ -137,13 +137,13 @@ git push -u origin <your_branch_name>
 
 **12.** To create a pull request, click on `compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
 
-<img src="ss1.png" width=600>
+<img src="screenshots/ss1.png" width=800>
 
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
 **14.** Click on `Create Pull Request`.
 
-<img src="ss2.png" width=600>
+<img src="screenshots/ss2.png" width=600>
 
 **15** Voila :exclamation: You have made a PR to the Vaccine-Tracker-App project :boom: Sit back patiently and relax while the project maintainers review your PR. Please understand at times the time can vary from a few hours to a few days
 
